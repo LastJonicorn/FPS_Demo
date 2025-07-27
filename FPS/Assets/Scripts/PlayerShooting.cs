@@ -39,7 +39,8 @@ public class PlayerShooting : MonoBehaviour
 
             if (hitSparkPrefab != null)
             {
-                GameObject impactEffect = Instantiate(hitSparkPrefab, hit.point, Quaternion.LookRotation(hit.normal));
+                Quaternion impactRotation = Quaternion.LookRotation(hit.normal) * Quaternion.Euler(90, 0, 0);
+                GameObject impactEffect = Instantiate(hitSparkPrefab, hit.point, impactRotation);
 
                 Destroy(impactEffect, 2f);
             }
