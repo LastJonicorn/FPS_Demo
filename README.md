@@ -3,18 +3,13 @@
 </h1>
 
 <h2>
-  Testing some visuals & mechanics in Unity.
-</h2>
+  An experimental Unity FPS prototype focused on stylized visuals, elemental powers, and gameplay effects. 
+  </br>
+  Built as a sandbox to test and iterate on VFX, shaders, and mechanics for a unique power-based combat experience.</h2>
 
 <h2>
   All of the 3D models are made by me using Blender
 </h2>
-
-<p>
-  An experimental Unity FPS prototype focused on stylized visuals, elemental powers, and gameplay effects. 
-  </br>
-  Built as a sandbox to test and iterate on VFX, shaders, and mechanics for a unique power-based combat experience.
-</p>
 
 <h3>
   Explosion effect
