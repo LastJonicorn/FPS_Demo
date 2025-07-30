@@ -1,11 +1,29 @@
-<h1>FPS Demo Project</h1>
-<h2>I'm testing some visuals and mechanics I'd like to see in games and testing my own skills</h2>
-<p>I already have some terrain I have sketched in this project. </br>
-I'm using some addons but they are all ok to use in commercial projects.</p>
-<h3>Explosion effect</h3>
+<h1>
+  FPS Demo Project
+</h1>
+
+<h2>
+  Testing some visuals & mechanics in Unity.
+</h2>
+
+<h2>
+  All of the 3D models are made by me using Blender
+</h2>
+
+<p>
+  An experimental Unity FPS prototype focused on stylized visuals, elemental powers, and gameplay effects. 
+  </br>
+  Built as a sandbox to test and iterate on VFX, shaders, and mechanics for a unique power-based combat experience.
+</p>
+
+<h3>
+  Explosion effect
+</h3>
 
 ![Explosion](Images/Explosion.png)
 
-<h3>Overview of map</h3>
+<h3>
+  Overview of map
+</h3>
 
 ![Overview](Images/Overbiew.png)
