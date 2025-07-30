@@ -8,4 +8,4 @@ I'm using some addons but they are all ok to use in commercial projects.</p>
 
 <h3>Overview of map</h3>
 
-![Overview](Images/Overview.png)
+![Overview](Images/Overbiew.png)
